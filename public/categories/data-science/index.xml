@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-Science on A Hugo website</title>
+    <link>//localhost:4321/categories/data-science/</link>
+    <description>Recent content in Data-Science on A Hugo website</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life Science Dat and Drug Discovery in the age of AI</title>
+      <link>//localhost:4321/2024/05/24/biomedical-data/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:4321/2024/05/24/biomedical-data/</guid>
+      <description>Life Science data A great emphasis on the re-usability of life science data has been placed due to recent technological advances, including the feasibility of complex data generation, computational infrastructure, and algorithmic advances. These advancements have the potential to revolutionize biomedical research, allowing for more detailed and comprehensive data collection and analysis. However, significant bottlenecks remain, rooted in experiment and trial design. Despite the technological progress, these bottlenecks can hinder the effective use of data.</description>
+    </item>
+  </channel>
+</rss>
